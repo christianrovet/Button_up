@@ -1,0 +1,36 @@
+.button1{
+    background-color: white;
+    border-color: cyan;
+    color: cyan;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 40px;
+    Margin-bottom: 10px;
+    margin-left: 60px;
+    border-radius: 20px;
+    padding: 8px 50px;
+    font-weight: bold;
+}
+.button2{
+    background-color:teal;
+    color: white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px 60px;
+    border-radius: 20px;
+    padding: 4px 10px;
+}
+.button3{
+    background-color: rgb(40, 74, 165);
+    border-color: black;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 60px;
+    padding: 8px 50px;
+    box-shadow: 6px 6px black;
+}
