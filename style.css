@@ -11,6 +11,7 @@
     border-radius: 20px;
     padding: 8px 50px;
     font-weight: bold;
+    border-style:solid;
 }
 .button2{
     background-color:teal;
